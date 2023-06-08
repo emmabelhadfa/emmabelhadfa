@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emmabelhadfa
-- 👀 I’m interested in aerospace engineering, atmospheric physics, and remote sensing!
-- 🌱 I’m currently learning how to code Raspberry Pis!
-- 📫 How to reach me @ my email emma.belhadfa@gmail.com
+- 👀 I’m interested in aerospace engineering, planetary science, geology, and the intersection of all those fun things.
+- 🌱 I’m currently learning how to code Raspberry Pis... it's a work in progress
+- 📫 You can reach me @ my email emma.belhadfa@gmail.com
 
 <!---
 emmabelhadfa/emmabelhadfa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
